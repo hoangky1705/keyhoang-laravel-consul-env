@@ -1,5 +1,5 @@
 {
-    "name": "keyhoang/laravel-consul-env" ,
+    "name": "hoangky1705/keyhoang-laravel-consul-env" ,
     "description": "Create .env.consul with consul replace .env",
     "keywords": [
         "laravel",
@@ -18,7 +18,7 @@
     },
     "authors": [
         {
-            "name": "Hoang Ky",
+            "name": "Hoang-Ky",
             "email": "hoangky1705@gmail.com"
         }
     ],
